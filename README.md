@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 
-<div align="center"><img src="./images.jpeg" style="height: 200px;"></div>
+<div align="center"><img src="./mypic.jpg" style="height: 200px;"></div>
 
 <h1 align="center">Hey!👋 I am Tucci ! <img src="https://media.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="40px"></h1>
 
